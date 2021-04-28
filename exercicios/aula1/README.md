@@ -9,7 +9,7 @@
 #### Exercício 1:
 
 Reproduza o seguinte
-[README](https://advancedinstitute.ai/wp-content/uploads/2019/10/markdown.pdf)
+[README](assets/markdown.pdf)
 utilizando `markdown` no Jupyter notebook.
 
 
@@ -26,7 +26,7 @@ Como escrever (utilizando uma célula `markdown`) em texto simples os símbolos
 utilizados pela sintaxe ( `*, #, _ **`)?
 
 Imagem exemplo:
-![](https://advancedinstitute.ai/wp-content/uploads/2019/10/lorem.png)
+![](assets/lorem.png)
 
 #### Exercício 4:
 

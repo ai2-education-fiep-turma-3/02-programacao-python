@@ -1,0 +1,11 @@
+--2021-04-28 01:01:36--  https://advancedinstitute.ai/wp-content/uploads/2019/10/lorem.png
+Resolving advancedinstitute.ai (advancedinstitute.ai)... 200.136.80.40
+Connecting to advancedinstitute.ai (advancedinstitute.ai)|200.136.80.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6175 (6,0K) [image/png]
+Saving to: ‘lorem.png’
+
+     0K ......                                                100% 18,6M=0s
+
+2021-04-28 01:01:36 (18,6 MB/s) - ‘lorem.png’ saved [6175/6175]
+

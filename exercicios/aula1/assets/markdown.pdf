@@ -1,0 +1,13 @@
+--2021-04-28 01:00:42--  https://advancedinstitute.ai/wp-content/uploads/2019/10/markdown.pdf
+Resolving advancedinstitute.ai (advancedinstitute.ai)... 200.136.80.40
+Connecting to advancedinstitute.ai (advancedinstitute.ai)|200.136.80.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108831 (106K) [application/pdf]
+Saving to: ‘markdown.pdf’
+
+     0K .......... .......... .......... .......... .......... 47% 1,35M 0s
+    50K .......... .......... .......... .......... .......... 94% 7,81M 0s
+   100K ......                                                100% 35,2M=0,04s
+
+2021-04-28 01:00:42 (2,43 MB/s) - ‘markdown.pdf’ saved [108831/108831]
+
