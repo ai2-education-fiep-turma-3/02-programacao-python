@@ -7,7 +7,9 @@ Crie o seguinte conjunto de classes, atributos e responsabilidades:
 
 1. `FormaGeometrica`:
   * Atributos `x` e `y` que marcam a posição inicial da forma geométrica
-  * Método `desenhe()` que deve mostrar o texto: `Desenho da Forma Geométrica`
+  * Método `desenhe()` que deve mostrar o texto: 
+   
+  > Forma Geométrica Centrada em (`x`,`y`)
 
 
 1. `Forma2D`
