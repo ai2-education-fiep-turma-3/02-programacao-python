@@ -55,7 +55,7 @@ uma lista de figuras geométricas chama `figuras_geometricas`.
 Implemente o método `desenhe()` na classe `Quadro`. Esse método deve chamar a
 função `desenhe()` de todos os objetos contidos na lista armazenada em `Quadro`
 
-Adicionar métdos para \textbf{incluir} uma nova figura e \textbf{remover} uma
+Adicionar métodos para \textbf{incluir} uma nova figura e \textbf{remover} uma
 figura armazenada em uma dada posição da lista. 
 
 ### Extra
