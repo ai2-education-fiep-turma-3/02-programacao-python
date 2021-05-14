@@ -16,7 +16,8 @@ Este conjunto de dados consiste em:
 * Cada usuário classificou pelo menos 20 filmes.
 
 
-Continuando o que foi feito em sala, pede-se que sejam criadas as classes:
+Continuando o que foi feito em sala (disponível no diretório
+[source](../../src/aula8)), pede-se que sejam criadas as classes:
 
 * `AlgoritmoSimilaridade`: classe abstrata que possui um método (abstrato):
   `calcula()`. Esse método recebe dois arrays **Numpy**;
