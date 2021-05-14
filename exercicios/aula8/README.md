@@ -26,6 +26,9 @@ Continuando o que foi feito em sala (disponível no diretório
 * `SimilaridadePearson`: implementação do método da [Correlação de
    Pearson](https://pt.wikipedia.org/wiki/Coeficiente_de_correla%C3%A7%C3%A3o_de_Pearson);
 
+A classe `Usuario` deve ter uma operação chamada similaridade que recebe como
+parâmetro outro usuário e uma instância de um `AlgoritmoSimilaridade`.
+
 
 A hierarquia de classes deve refletir o que consta no seguinte diagrama de
 classes UML:
