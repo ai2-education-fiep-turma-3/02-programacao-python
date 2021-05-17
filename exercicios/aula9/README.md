@@ -37,10 +37,10 @@ funções:
     [Z-Score](https://blog.dp6.com.br/t%C3%A9cnicas-de-detec%C3%A7%C3%A3o-de-anomalias-3d9e216bf82e).
     Faça o cálculo do **Z-score** e verifique se existem outliers (considerar
     valores de Z maiores do que 3 para identificar esses indivíduos).
-
-### Bonus
-
-1. Implementar o método de [Similaridade do
+1. Implementar função que retorne o resultado da "**distância**" entre duas linhas utilizando o método de [Similaridade do
    Cosseno](https://en.wikipedia.org/wiki/Cosine_similarity);
-1. Implementar o método da [Correlação de
+   * Fazer o mesmo para colunas;
+1. Implementar uma função que retorne o resultado da "**distância**" entre duas linhas utilizando o método da [Correlação de
    Pearson](https://pt.wikipedia.org/wiki/Coeficiente_de_correla%C3%A7%C3%A3o_de_Pearson);
+   * Fazer o mesmo para colunas;
+
