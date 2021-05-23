@@ -10,5 +10,6 @@
 * Aula 8 - Projeto de Classes para o Sistema de Recomendações ~~([Slides](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/raw/main/slides/aula8/slides.pdf))~~ ([Exercícios](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/blob/main/exercicios/aula8)) ([Código](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/blob/main/src/aula8))
 * Aula 9 - Numpy Continuação ([Slides](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/raw/main/slides/aula9/slides.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/blob/main/exercicios/aula9))
 * Aula 10 - Manipulação de dados utilizando Pandas ([Slides](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/raw/main/slides/aula10/slides.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/blob/main/exercicios/aula10))
+* Aula 10 - Manipulação de dados utilizando Pandas Continuação ~~([Slides](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/raw/main/slides/aula10/slides.pdf))~~ ([Exercícios](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/blob/main/exercicios/aula11)) ([Código](https://github.com/ai2-education-fiep-turma-3/02-programacao-python/blob/main/src/aula11))
 
 
